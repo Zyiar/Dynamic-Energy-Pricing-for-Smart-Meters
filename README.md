@@ -92,7 +92,7 @@ dynamic-energy-pricing/
 
 ```bash
 # 1. Clone repo
-git clone https://github.com/yourusername/dynamic-energy-pricing.git
+git clone https://github.com/Zyiar/Dynamic-Energy-Pricing-for-Smart-Meters.git
 cd dynamic-energy-pricing
 
 # 2. Install dependencies
