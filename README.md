@@ -115,8 +115,8 @@ streamlit run app/dashboard.py
 
 ## Datasets Used
 
-- [UK Domestic Smart Meter Data](https://data.gov.uk/dataset/40e1e62b-f0e9-4b42-b22c-df93ecaa3b03)  
-- [Open Power System Data (OPSD)](https://data.open-power-system-data.org/)  
+- [UK Domestic Smart Meter Data](https://data.london.gov.uk/dataset/smartmeter-energy-use-data-in-london-households)  
+- [Open Power System Data (OPSD)](https://data.open-power-system-data.org/time_series/)  
 - NOAA Weather Data via [NOAA API](https://www.ncei.noaa.gov/support/access-data-service-api-user-documentation)
 
 ---
